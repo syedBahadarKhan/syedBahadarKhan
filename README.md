@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedBahadarKhan
 - 👀 I’m software developer.
-- 🌱 I’m currently learning C++,html,css,javascript,phyton,flutter.
+- 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...HE
