@@ -31,7 +31,7 @@ I'm looking to collaborate on innovative projects in the web development and tec
   <a href="https://www.linkedin.com/in/bahadar-ali/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/sanaullah-7" target="_blank">
+  <a href="https://github.com/syedBahadarKhan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="bahadardeveloper@gmail.com" target="_blank">
