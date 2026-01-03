@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahadar Ali</h1>
 
-Hi, I'm **Bahadar Ali**, a 7th-semester Information Technology student pursuing my Bachelor's degree of SOtware Engineering at **Sarhad University of Science and IT**, with a focus on **Full-Stack Web Development**. Over the past two year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScrip*,  **React.js**,  **Express.js**,  **Nodet.js**, and **Mongodb**. Currently, I'm expanded my backend knowledge with **Express.js** **Node.js**, and **MongoDB**, working towards becoming a full-stack developer.
+Hi, I'm **Bahadar Ali**, a 7th-semester Information Technology student pursuing my Bachelor's degree of Sotware Engineering at **Sarhad University of Science and IT**, with a focus on **Full-Stack Web Development**. Over the past two year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScrip*,  **React.js**,  **Express.js**,  **Nodet.js**, and **Mongodb**. Currently, I'm expanded my backend knowledge with **Express.js** **Node.js**, and **MongoDB**, working towards becoming a full-stack developer.
 
 I'm looking to collaborate on innovative projects in the web development and tech industry.
 
